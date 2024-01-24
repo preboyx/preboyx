@@ -10,6 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PreBoyx&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PreBoyx&icon=2&color=3)](https://visitcount.itsvg.in)
+  <img src="https://api.visitorbadge.io/api/visitors?path=PreBoyc&label=Visitas&labelColor=%23697689&countColor=%23555555&style=flat" width="100" height="30" alt="Visitantes">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
